@@ -1,7 +1,7 @@
 export default {
   // Global page headers (https://go.nuxtjs.dev/config-head)
   head: {
-    title: 'CARE AND COMFORT: YOU CAN COUNT ON US!',
+    title: 'CURE N CARE: YOU CAN COUNT ON US!',
     meta: [
       { charset: 'utf-8' },
       { name: 'viewport', content: 'width=device-width, initial-scale=1' },
